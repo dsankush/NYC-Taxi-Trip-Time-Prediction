@@ -6,7 +6,7 @@ Data Description
 The dataset is based on the 2016 NYC Yellow Cab trip record data made available in Big Query on Google Cloud Platform. The data was originally published by the NYC Taxi and Limousine Commission (TLC). The data was sampled and cleaned for the purposes of this project. Based on individual trip attributes, you should predict the duration of each trip in the test set.
 NYC Taxi Data.csv - the training set (contains 1458644 trip records)
 
-#Conclusion :
+# Conclusion :
 
 We can observe that we have applied multiple models with different approaches and we can clearly see that in all cases XGBOOST was working very fine other than Decision Tree and Random Forest Regression
 
@@ -16,7 +16,7 @@ And also XGBOOST is also working better after PCA transformation and also XGBOOS
 
 So our conclusion from this whole analysis is that we can go with XGBOOST Regressor to get Good Prediction rate and lesser Error prone and also it can be more optimized using more tuned hyperparameters.
 
-#Future Work:
+# Future Work :
 
 As this data set is of only almost 6 months and I think there should be more data for more than a year and also some more features should be there so that we can train our models with more significant information that will help our model to learn more efficiently so that we can get more higher performance from Machine Learning Models
 
