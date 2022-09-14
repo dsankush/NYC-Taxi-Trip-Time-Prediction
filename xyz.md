@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="<iframe src="https://giphy.com/embed/3o6ZsTgUfYjJrbmj1m" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/southparkgifs-3o6ZsTgUfYjJrbmj1m">via GIPHY</a></p>" width="80px" height="80px">
+  <iframe src="https://giphy.com/embed/3o6ZsTgUfYjJrbmj1m" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/southparkgifs-3o6ZsTgUfYjJrbmj1m">via GIPHY</a></p>
 </p>
 <h1 align="center"> Spam Detector </h1>
 <h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
