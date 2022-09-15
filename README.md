@@ -74,8 +74,7 @@ The prediction scores of each individual decision tree then sum up to get  If yo
 
 **- As this data set is of only almost 6 months and I think there should be more data for more than a year and also some more features should be there so that we can train our models with more significant information that will help our model to learn more efficiently so that we can get more higher performance from Machine Learning Models.**
 
-**- And also we can extract more information about this data by getting more features so that we can explore more about this kind of data
-**
+**- And also we can extract more information about this data by getting more features so that we can explore more about this kind of data**
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
