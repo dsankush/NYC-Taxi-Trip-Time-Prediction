@@ -3,9 +3,6 @@
   <img src="https://media.giphy.com/media/arZ261VdyAuXu/giphy.gif"  width="300px" height="200px">
 </p>
 <h1 align="center">NYC Taxi Trip Time Prediction</h1>
-<p align="center"> 
-  <img src="https://images.livemint.com/img/2021/06/19/600x338/alma3_1624099815741_1624099828582.JPG" >
-</p>
 <h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
 
 <p>Developed various models to predict the total ride duration of taxi trips in New York City</p>
