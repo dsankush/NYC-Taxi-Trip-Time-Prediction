@@ -90,7 +90,7 @@ Ankush Kumar | Data Science | Machine Learning Engineer | Deep Learning enthusia
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dsankushkumar/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dsankush)
-[![Medium Badge](https://img.shields.io/badge/Medium-1DA1F2?style=for-the-badge&logo=medium&logoColor=white)]()
+[![Medium Badge](https://img.shields.io/badge/Medium-1DA1F2?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dsankushkumar/various-types-of-matrices-in-regression-for-machine-learning-38e454bbc06)
 [![Resume Badge](https://img.shields.io/badge/resume-0077B5?style=for-the-badge&logo=resume&logoColor=white)](https://drive.google.com/file/d/1r3LKVin4RUFty0ZNYSwvciMsp4_iiI_o/view?usp=sharing)
 
 
