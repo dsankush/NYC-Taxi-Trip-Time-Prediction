@@ -1,9 +1,12 @@
 <p align="center"> 
   <img src="https://cdn-images-1.medium.com/fit/t/1600/480/1*0VrGI7no8VdwehuLCp4xew.jpeg" >
+  <h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
   <img src="https://media.giphy.com/media/arZ261VdyAuXu/giphy.gif"  width="300px" height="200px">
 </p>
+<p align="center"> 
+   <img src="https://media.giphy.com/media/arZ261VdyAuXu/giphy.gif"  width="300px" height="200px">
+</p>
 <h1 align="center">NYC Taxi Trip Time Prediction</h1>
-<h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
 
 <p>Developed various models to predict the total ride duration of taxi trips in New York City</p>
 
